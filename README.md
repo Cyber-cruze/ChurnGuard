@@ -66,4 +66,4 @@
 Запуск Streamlit-приложения
 
 ```bash
-   streamlit run app.py
+  streamlit run app.py
